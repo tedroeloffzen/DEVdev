@@ -1,0 +1,15 @@
+target
+.svn
+*.iml
+*.log
+*.log.?
+.settings
+.idea
+.project
+.classpath
+.factorypath
+hibernate.properties
+maven-install.log
+.DS_Store
+bin
+
